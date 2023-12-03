@@ -1,4 +1,9 @@
-Apellidos y Nombres                       Usuario:
-Medina Gurreonero, Mayra Alejandra        mayyralejandra
-Ramos Orue, Selene Milagros               SeleneRamos
-Untiveros Cruzado, Alonso                 Alonso-Untiveros
+Apellidos y Nombres:                       
+Medina Gurreonero, Mayra Alejandra        
+Usuario: mayyralejandra
+
+Ramos Orue, Selene Milagros              
+Usuario: SeleneRamos
+
+Untiveros Cruzado, Alonso                 
+Usuario: Alonso-Untiveros
